@@ -1,3 +1,8 @@
+based on kegman 0.8.0
+
+1. add autohold feature using LKAS button
+
+
 This is a fork of comma's openpilot: https://github.com/commaai/openpilot, and contains tweaks for Hondas and GM vehicles.  It is open source and inherits MIT license.  By installing this software you accept all responsibility for anything that might occur while you use it.  All contributors to this fork are not liable, including me.  <b>Use at your own risk.</b>
 
 
